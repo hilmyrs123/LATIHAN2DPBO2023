@@ -46,7 +46,7 @@ public class Main{
         System.out.println("List Data");
 
         printlist(list);
-/*
+
         printmenu();
 
         //meminta input
@@ -88,7 +88,6 @@ public class Main{
             
         }
         
-*/
         
         
         

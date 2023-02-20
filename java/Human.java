@@ -1,8 +1,8 @@
 public class Human{
 
-    String nama;
-    String nik;
-    String gender;
+    protected String nama;
+    protected String nik;
+    protected String gender;
 
 
  //Konstruktor
