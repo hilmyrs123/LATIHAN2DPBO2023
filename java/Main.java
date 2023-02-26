@@ -27,8 +27,6 @@ public class Main{
 
         //membuat array list
         ArrayList<Sivitas> list = new ArrayList<Sivitas>();
-
-        int i = 0;
         
         //Instansiasi pake sivitas krn biar bawa semua atribut ortu
         Sivitas civitas = new Sivitas();
@@ -99,7 +97,7 @@ public class Main{
         
         
         
-
+        sc.close();
 
 
     }
